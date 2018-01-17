@@ -1,1 +1,5 @@
 This file now has some text in it. What do you think the chances are of it turning up in our local repo after a pull?
+
+Semmed to work fine.
+
+Now how about going the other way?
